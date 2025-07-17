@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74388336339",
+    "project_id": "spelzoapp",
+    "storage_bucket": "spelzoapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74388336339:android:f8190d4ff13b695ecd2e26",
+        "android_client_info": {
+          "package_name": "com.example.spelzo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZLxLHyni7H7GaSniCnAkjt_QCiRLiLc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
